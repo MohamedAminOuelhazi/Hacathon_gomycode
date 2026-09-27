@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 228 50" role="img" aria-labelledby="title">
+  <title id="title">Soufet</title>
+  <g fill="none" stroke="#2B5CFF" stroke-width="3.2" stroke-linecap="square">
+    <path d="M4 12h21l11 13-11 13H4l11-13L4 12Z"/>
+    <path d="M17 12h17l11 13-11 13H17l11-13-11-13Z" opacity=".5"/>
+  </g>
+  <text x="56" y="34" fill="#12161C" font-family="Arial, sans-serif" font-size="29" font-weight="700" letter-spacing="6">SOUFET</text>
+</svg>
